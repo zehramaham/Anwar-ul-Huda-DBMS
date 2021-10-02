@@ -5,7 +5,8 @@ This is the database of Anwar-ul-Huda Hostel, Skardu; an all-girls orphanage, un
 ## How to run:
 1) Install Visual Studio, Sql Server, and Sql Management Studio.
 2) Download the Anwar-ul-HUda.rar file and unzip the folder.
-3) In the App.Config, change the connection string. Modify the 'AttachDbFilename' to the location where you have placed the project- where the database.mdf is present.
-4) Create a connection with the database in Data Connections - Server Explorer.
-5) Build the application and press the Start button.
-6) Navigate through the application; first choose whether Sponser and Student, then whether it is existing sponser/student or new; and then continue adding, editing, or viewing data accordingly.
+3) Open the Anwar ul Huda Database.sln.
+4) In the App.Config, change the connection string. Modify the 'AttachDbFilename' to the location where you have placed the project- where the database.mdf is present.
+5) Create a connection with the database in Data Connections - Server Explorer.
+6) Build the application and press the Start button.
+7) Navigate through the application; first choose whether Sponser and Student, then whether it is existing sponser/student or new; and then continue adding, editing, or viewing data accordingly.
